@@ -1,0 +1,14 @@
+ul {
+      background: rgb(66, 182, 244);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+#nav{
+      max-height: 100px;
+      max-width: 1000px;
+      margin: 0 auto;
+      
+    }
